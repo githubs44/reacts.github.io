@@ -415,10 +415,7 @@ marquee .cnts img{
 
 /* --------- */
 @media (max-width:600px){
-  html,
-   body {
-       
-   }
+
 
    p {
        font-size: 4vw;
